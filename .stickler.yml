@@ -1,0 +1,6 @@
+linters:
+  swiftlint: {  }
+  rubocop:
+    fixer: true
+fixers:
+  enable: true
